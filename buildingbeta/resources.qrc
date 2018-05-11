@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/building_beta" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
